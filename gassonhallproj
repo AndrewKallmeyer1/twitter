@@ -1,0 +1,3 @@
+mkdir tweepy-bots
+$ cd tweepy-bots
+$ python3 -m venv venv
